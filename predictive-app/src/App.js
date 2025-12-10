@@ -3,7 +3,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-// Define the IntroPage component
+// Define the IntroPage components
 const IntroPage = () => {
   return (
     <div className="flex items-center justify-center h-screen bg-navy-blue relative">
